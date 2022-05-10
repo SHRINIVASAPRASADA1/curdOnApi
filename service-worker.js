@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/curdOnApi/precache-manifest.73541a1438b82817b18051455344c208.js"
+  "/curdOnApi/precache-manifest.adbf981610d08741207d6bb9e0160cc0.js"
 );
 
 workbox.clientsClaim();

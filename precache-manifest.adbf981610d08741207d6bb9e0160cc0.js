@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/curdOnApi/static/js/runtime~main.ccc3ddc9.js"
   },
   {
-    "revision": "c7b7d495f6b8980b615b1a8afb2e8239",
+    "revision": "494c2ca689f148657b4012a89e8d7d3f",
     "url": "/curdOnApi/index.html"
   }
 ];
